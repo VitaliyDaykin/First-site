@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/First-site/static/css/main.0bbba82f.css",
+    "main.js": "/First-site/static/js/main.a16eed25.js",
+    "static/js/787.595a2b2e.chunk.js": "/First-site/static/js/787.595a2b2e.chunk.js",
+    "static/media/vid.jpg": "/First-site/static/media/vid.4b1b326827af693129bf.jpg",
+    "static/media/Vitalii.jpg": "/First-site/static/media/Vitalii.23ac453f577bf7b53785.jpg",
+    "index.html": "/First-site/index.html",
+    "main.0bbba82f.css.map": "/First-site/static/css/main.0bbba82f.css.map",
+    "main.a16eed25.js.map": "/First-site/static/js/main.a16eed25.js.map",
+    "787.595a2b2e.chunk.js.map": "/First-site/static/js/787.595a2b2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbba82f.css",
+    "static/js/main.a16eed25.js"
+  ]
+}
